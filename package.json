@@ -9,7 +9,11 @@
   "dependencies": {
     "jest": "^25.4.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-jest": "^25.4.0"
+  },
   "scripts": {
     "test": "jest"
   },
