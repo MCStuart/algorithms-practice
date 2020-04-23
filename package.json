@@ -1,0 +1,18 @@
+{
+  "name": "algorithmspractice",
+  "version": "1.0.0",
+  "description": "Algorithm practice problems with automated tests using Jest",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^25.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Stuart McKay",
+  "license": "ISC"
+}
