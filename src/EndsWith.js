@@ -8,3 +8,9 @@ confirmEnding("Walking on water and developing software from a specification are
 confirmEnding("He has to give me a new name", "name") should return true.
 confirmEnding("Open sesame", "same") should return true.
 */
+
+const endsWith = () => {
+
+}
+
+module.exports = endsWith;
